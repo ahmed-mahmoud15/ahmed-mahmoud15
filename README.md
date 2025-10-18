@@ -49,14 +49,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="C++" />
   </div>
 
-  <div style="flex: 1 1 50%; display: flex; justify-content: flex-end; align-items: center;">
-    <img
-      src="https://leetcode-badge-showcase.vercel.app/api?username=Hamata&filter=annual&animated=true&border=border"
-      style="max-width: 100%; border-radius: 8px;"
-      alt="LeetCode Badges"
-    />
-  </div>
-</div>
 
 
 
