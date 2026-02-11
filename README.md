@@ -1,11 +1,11 @@
-<div style="display: flex; justify-content: center">
+<div align="center">
     <img
           src="https://media.tenor.com/wWhdzUxj50sAAAAM/tobi.gif"
           height="150"
           width="250"
           alt="GIF"
     />
-
+</div>
 <br>
 
 <div align="center">
@@ -21,8 +21,6 @@
   <a href="https://leetcode.com/u/Hamata/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode" height="35" />
   </a>
-</div>
-
 </div>
 
 <br>
