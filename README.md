@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am a Computer Engineering senior student and .NET-focused developer with strong foundations in object-oriented programming, data structures, and backend development. I have gained hands-on experience in .NET and full-stack development through internships at Ejada and Bibliotheca Alexandrina, as well as training at the Digital Egypt Pioneer Initiative. I have worked with ASP.NET Core, RESTful APIs, and SQL databases, applying clean architecture principles and design patterns such as Repository and Unit of Work. Through my projects, I focus on building practical, user-centered solutions while writing maintainable, efficient, and well-structured code, and I am continuously driven to learn and grow as a developer.
-
+Computer Engineering senior student and .NET-focused developer with strong foundations in OOP, data structures, and backend development. Experienced in building scalable web applications using ASP.NET Core, RESTful APIs, and SQL databases through internships at Ejada and Bibliotheca Alexandrina, alongside DEPI training. Passionate about writing clean, maintainable code and applying software design principles to build practical, efficient solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedmahmoud154) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedmahmoud15403@gmail.com) 
